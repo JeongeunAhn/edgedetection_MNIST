@@ -1,5 +1,5 @@
 # edgedetection_MNIST
-기계학습개론 수업 / 2018년2학기
+기계학습개론 수업
 
 "텐서플로로 시작하는 딥러닝" 교재의 MNIST 코드에서 초단에 edge detection을 하고 성능을 확인하는 과제입니다.
 
